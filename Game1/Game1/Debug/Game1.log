@@ -1,148 +1,125 @@
 ﻿  Main.cpp
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(182): error C2374: 'gameScreen8LBF2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(181): note: see declaration of 'gameScreen8LBF2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(373): error C2374: 'gameScreen6L1F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(135): note: see declaration of 'gameScreen6L1F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(374): error C2374: 'gameScreen6L2F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(136): note: see declaration of 'gameScreen6L2F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(375): error C2374: 'gameScreen6L3F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(137): note: see declaration of 'gameScreen6L3F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(376): error C2374: 'gameScreen6L4F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(138): note: see declaration of 'gameScreen6L4F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(377): error C2374: 'gameScreen6L5F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(139): note: see declaration of 'gameScreen6L5F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(378): error C2374: 'gameScreen6L6F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(140): note: see declaration of 'gameScreen6L6F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(379): error C2374: 'gameScreen6L7F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(141): note: see declaration of 'gameScreen6L7F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(380): error C2374: 'gameScreen6L8F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(142): note: see declaration of 'gameScreen6L8F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(381): error C2374: 'gameScreen6L9F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(143): note: see declaration of 'gameScreen6L9F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(382): error C2374: 'gameScreen6LAF2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(144): note: see declaration of 'gameScreen6LAF2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(383): error C2374: 'gameScreen6LBF2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(145): note: see declaration of 'gameScreen6LBF2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(384): error C2374: 'gameScreen6LCF2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(146): note: see declaration of 'gameScreen6LCF2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(385): error C2374: 'gameScreen6LDF2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(147): note: see declaration of 'gameScreen6LDF2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(386): error C2374: 'gaemScreen6LEF2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(148): note: see declaration of 'gaemScreen6LEF2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(390): error C2374: 'gameScreen7L1F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(153): note: see declaration of 'gameScreen7L1F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(391): error C2374: 'gameScreen7L2F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(154): note: see declaration of 'gameScreen7L2F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(392): error C2374: 'gameScreen7L3F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(155): note: see declaration of 'gameScreen7L3F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(393): error C2374: 'gameScreen7L4F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(156): note: see declaration of 'gameScreen7L4F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(394): error C2374: 'gameScreen7L5F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(157): note: see declaration of 'gameScreen7L5F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(395): error C2374: 'gameScreen7L6F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(158): note: see declaration of 'gameScreen7L6F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(396): error C2374: 'gameScreen7L7F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(159): note: see declaration of 'gameScreen7L7F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(397): error C2374: 'gameScreen7L8F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(160): note: see declaration of 'gameScreen7L8F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(398): error C2374: 'gameScreen7L9F2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(161): note: see declaration of 'gameScreen7L9F2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(399): error C2374: 'gameScreen7LAF2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(162): note: see declaration of 'gameScreen7LAF2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(400): error C2374: 'gameScreen7LBF2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(163): note: see declaration of 'gameScreen7LBF2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(401): error C2374: 'gameScreen7LCF2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(164): note: see declaration of 'gameScreen7LCF2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(402): error C2374: 'gameScreen7LDF2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(165): note: see declaration of 'gameScreen7LDF2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(403): error C2374: 'gameScreen7LEF2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(166): note: see declaration of 'gameScreen7LEF2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(795): error C2374: 'playerLOCX3Y8MP1': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(777): note: see declaration of 'playerLOCX3Y8MP1'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(1011): error C2374: 'playerLOCX4Y8MP1': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(993): note: see declaration of 'playerLOCX4Y8MP1'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2036): error C2374: 'playerLOCX10Y5MP1': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(1874): note: see declaration of 'playerLOCX10Y5MP1'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2054): error C2374: 'playerLOCX10Y7MP1': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(1892): note: see declaration of 'playerLOCX10Y7MP1'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2090): error C2374: 'playerLOCX11Y2MP1': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2000): note: see declaration of 'playerLOCX11Y2MP1'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2259): error C2374: 'playerLOC100Map1L6': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2241): note: see declaration of 'playerLOC100Map1L6'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2260): error C2374: 'playerLOC100Map1L7': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2242): note: see declaration of 'playerLOC100Map1L7'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2261): error C2374: 'playerLOC100Map1L8': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2243): note: see declaration of 'playerLOC100Map1L8'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2262): error C2374: 'playerLOC100Map1L9': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2244): note: see declaration of 'playerLOC100Map1L9'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2263): error C2374: 'playerLOC100Map1LA': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2245): note: see declaration of 'playerLOC100Map1LA'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2264): error C2374: 'playerLOC100Map1LB': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2246): note: see declaration of 'playerLOC100Map1LB'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2265): error C2374: 'playerLOC100Map1LC': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2247): note: see declaration of 'playerLOC100Map1LC'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2266): error C2374: 'playerLOC100Map1LD': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2248): note: see declaration of 'playerLOC100Map1LD'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2267): error C2374: 'PlayerLOC100Map1LE': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2249): note: see declaration of 'PlayerLOC100Map1LE'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2396): error C2374: 'playerLOCX13Y10MP1': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2378): note: see declaration of 'playerLOCX13Y10MP1'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2704): error C2374: 'playerLOC125Map1L1': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2686): note: see declaration of 'playerLOC125Map1L1'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2705): error C2374: 'playerLOC125Map1L2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2687): note: see declaration of 'playerLOC125Map1L2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2706): error C2374: 'playerLOC125Map1L3': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2688): note: see declaration of 'playerLOC125Map1L3'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2707): error C2374: 'playerLOC125Map1L4': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2689): note: see declaration of 'playerLOC125Map1L4'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2708): error C2374: 'playerLOC125Map1L5': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2690): note: see declaration of 'playerLOC125Map1L5'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2709): error C2374: 'playerLOC125Map1L6': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2691): note: see declaration of 'playerLOC125Map1L6'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2710): error C2374: 'playerLOC125Map1L7': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2692): note: see declaration of 'playerLOC125Map1L7'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2711): error C2374: 'playerLOC125Map1L8': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2693): note: see declaration of 'playerLOC125Map1L8'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2712): error C2374: 'playerLOC125Map1L9': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2694): note: see declaration of 'playerLOC125Map1L9'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2713): error C2374: 'playerLOC125Map1LA': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2695): note: see declaration of 'playerLOC125Map1LA'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2714): error C2374: 'playerLOC125Map1LB': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2696): note: see declaration of 'playerLOC125Map1LB'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2715): error C2374: 'playerLOC125Map1LC': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2697): note: see declaration of 'playerLOC125Map1LC'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2716): error C2374: 'playerLOC125Map1LD': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2698): note: see declaration of 'playerLOC125Map1LD'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2717): error C2374: 'PlayerLOC125Map1LE': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2699): note: see declaration of 'PlayerLOC125Map1LE'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2723): error C2374: 'playerLOC125Map1L1': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2686): note: see declaration of 'playerLOC125Map1L1'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2724): error C2374: 'playerLOC125Map1L2': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2687): note: see declaration of 'playerLOC125Map1L2'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2725): error C2374: 'playerLOC125Map1L3': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2688): note: see declaration of 'playerLOC125Map1L3'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2726): error C2374: 'playerLOC125Map1L4': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2689): note: see declaration of 'playerLOC125Map1L4'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2727): error C2374: 'playerLOC125Map1L5': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2690): note: see declaration of 'playerLOC125Map1L5'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2728): error C2374: 'playerLOC125Map1L6': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2691): note: see declaration of 'playerLOC125Map1L6'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2729): error C2374: 'playerLOC125Map1L7': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2692): note: see declaration of 'playerLOC125Map1L7'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2730): error C2374: 'playerLOC125Map1L8': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2693): note: see declaration of 'playerLOC125Map1L8'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2731): error C2374: 'playerLOC125Map1L9': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2694): note: see declaration of 'playerLOC125Map1L9'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2732): error C2374: 'playerLOC125Map1LA': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2695): note: see declaration of 'playerLOC125Map1LA'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2733): error C2374: 'playerLOC125Map1LB': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2696): note: see declaration of 'playerLOC125Map1LB'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2734): error C2374: 'playerLOC125Map1LC': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2697): note: see declaration of 'playerLOC125Map1LC'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2735): error C2374: 'playerLOC125Map1LD': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2698): note: see declaration of 'playerLOC125Map1LD'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2736): error C2374: 'PlayerLOC125Map1LE': redefinition; multiple initialization
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2699): note: see declaration of 'PlayerLOC125Map1LE'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2762): error C2086: 'int playerSpawnArea': redefinition
-  c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2752): note: see declaration of 'playerSpawnArea'
-c:\users\ghost sec\downloads\documents\visual studio 2015\projects\game1\game1\main.cpp(2756): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(21): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(22): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(42): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(43): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(64): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(65): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(86): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(87): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(108): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(109): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(129): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(130): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(151): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(152): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(173): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(174): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(196): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(197): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(218): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(219): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(239): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(240): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(261): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(262): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(283): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(284): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(305): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(306): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(327): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(328): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(349): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(350): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(371): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(372): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(392): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(393): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(414): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(415): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(436): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(437): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(458): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(459): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(480): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(481): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(502): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(503): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(524): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(525): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(547): error C2146: syntax error: missing ';' before identifier 'YPos'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(546): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(547): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(568): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(569): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(590): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(591): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(612): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(613): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(634): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(635): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(656): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(657): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(678): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\display.h(679): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(12): error C2143: syntax error: missing ';' before 'using namespace'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(12): error C2182: 'displayFrame': illegal use of type 'void'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(173): error C2374: 'gameScreen8LBF2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(172): note: see declaration of 'gameScreen8LBF2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(364): error C2374: 'gameScreen6L1F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(126): note: see declaration of 'gameScreen6L1F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(365): error C2374: 'gameScreen6L2F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(127): note: see declaration of 'gameScreen6L2F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(366): error C2374: 'gameScreen6L3F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(128): note: see declaration of 'gameScreen6L3F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(367): error C2374: 'gameScreen6L4F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(129): note: see declaration of 'gameScreen6L4F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(368): error C2374: 'gameScreen6L5F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(130): note: see declaration of 'gameScreen6L5F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(369): error C2374: 'gameScreen6L6F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(131): note: see declaration of 'gameScreen6L6F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(370): error C2374: 'gameScreen6L7F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(132): note: see declaration of 'gameScreen6L7F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(371): error C2374: 'gameScreen6L8F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(133): note: see declaration of 'gameScreen6L8F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(372): error C2374: 'gameScreen6L9F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(134): note: see declaration of 'gameScreen6L9F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(373): error C2374: 'gameScreen6LAF2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(135): note: see declaration of 'gameScreen6LAF2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(374): error C2374: 'gameScreen6LBF2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(136): note: see declaration of 'gameScreen6LBF2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(375): error C2374: 'gameScreen6LCF2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(137): note: see declaration of 'gameScreen6LCF2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(376): error C2374: 'gameScreen6LDF2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(138): note: see declaration of 'gameScreen6LDF2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(377): error C2374: 'gaemScreen6LEF2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(139): note: see declaration of 'gaemScreen6LEF2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(381): error C2374: 'gameScreen7L1F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(144): note: see declaration of 'gameScreen7L1F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(382): error C2374: 'gameScreen7L2F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(145): note: see declaration of 'gameScreen7L2F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(383): error C2374: 'gameScreen7L3F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(146): note: see declaration of 'gameScreen7L3F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(384): error C2374: 'gameScreen7L4F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(147): note: see declaration of 'gameScreen7L4F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(385): error C2374: 'gameScreen7L5F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(148): note: see declaration of 'gameScreen7L5F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(386): error C2374: 'gameScreen7L6F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(149): note: see declaration of 'gameScreen7L6F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(387): error C2374: 'gameScreen7L7F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(150): note: see declaration of 'gameScreen7L7F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(388): error C2374: 'gameScreen7L8F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(151): note: see declaration of 'gameScreen7L8F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(389): error C2374: 'gameScreen7L9F2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(152): note: see declaration of 'gameScreen7L9F2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(390): error C2374: 'gameScreen7LAF2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(153): note: see declaration of 'gameScreen7LAF2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(391): error C2374: 'gameScreen7LBF2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(154): note: see declaration of 'gameScreen7LBF2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(392): error C2374: 'gameScreen7LCF2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(155): note: see declaration of 'gameScreen7LCF2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(393): error C2374: 'gameScreen7LDF2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(156): note: see declaration of 'gameScreen7LDF2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(394): error C2374: 'gameScreen7LEF2': redefinition; multiple initialization
+  c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(157): note: see declaration of 'gameScreen7LEF2'
+c:\users\ghost sec\documents\github\ascii-game-\game1\game1\main.cpp(14): fatal error C1075: the left brace '{' was unmatched at the end of the file

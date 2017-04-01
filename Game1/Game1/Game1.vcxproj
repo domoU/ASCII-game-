@@ -113,9 +113,6 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\..\Pictures\2d Game Sprites\magaman 16bit.JPG" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="Display.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
