@@ -148,8 +148,8 @@ void displayFrame6Map1() {
 
 void displayFrame7Map1() {
 
-	XPos == 2;
-	YPos == 8;
+	XPos = 2;
+	YPos = 8;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -170,8 +170,8 @@ void displayFrame7Map1() {
 
 void displayFrame8Map1() {
 
-	XPos == 2;
-	YPos == 9;
+	XPos = 2;
+	YPos = 9;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -193,8 +193,8 @@ void displayFrame8Map1() {
 
 void displayFrame9Map1() {
 
-	XPos == 2;
-	YPos == 10;
+	XPos = 2;
+	YPos = 10;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -215,8 +215,8 @@ void displayFrame9Map1() {
 
 void displayFrame10Map1() {
 
-	XPos == 2;
-	YPos == 11;
+	XPos = 2;
+	YPos = 11;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -236,8 +236,8 @@ void displayFrame10Map1() {
 
 void displayFrame11Map1() {
 
-	XPos == 2;
-	YPos == 12;
+	XPos = 2;
+	YPos = 12;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -258,8 +258,8 @@ void displayFrame11Map1() {
 
 void displayFrame12Map1() {
 
-	XPos == 2;
-	YPos == 13;
+	XPos = 2;
+	YPos = 13;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -280,8 +280,8 @@ void displayFrame12Map1() {
 
 void displayFrame13Map1() {
 
-	XPos == 3;
-	YPos == 2;
+	XPos = 3;
+	YPos = 2;
 
 	cout << "#######################################" << endl;
 	cout << "#_+_________________________________###" << endl;
@@ -302,8 +302,8 @@ void displayFrame13Map1() {
 
 void displayFrame14Map1() {
 
-	XPos == 3;
-	YPos == 2;
+	XPos = 3;
+	YPos = 2;
 
 	cout << "#######################################" << endl;
 	cout << "#_+_________________________________###" << endl;
@@ -324,8 +324,8 @@ void displayFrame14Map1() {
 
 void displayFrame15Map1() {
 
-	XPos == 3;
-	YPos == 3;
+	XPos = 3;
+	YPos = 3;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -346,8 +346,8 @@ void displayFrame15Map1() {
 
 void displayFrame16Map1() {
 
-	XPos == 3;
-	YPos == 4;
+	XPos = 3;
+	YPos = 4;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -368,8 +368,8 @@ void displayFrame16Map1() {
 
 void displayFrame17Map1() {
 
-	XPos == 3;
-	YPos == 5;
+	XPos = 3;
+	YPos = 5;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -389,8 +389,8 @@ void displayFrame17Map1() {
 
 void displayFrame18Map1() {
 
-	XPos == 3;
-	YPos == 6;
+	XPos = 3;
+	YPos = 6;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -411,8 +411,8 @@ void displayFrame18Map1() {
 
 void displayFrame19Map1() {
 
-	YPos == 3;
-	XPos == 7;
+	YPos = 3;
+	XPos = 7;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -433,8 +433,8 @@ void displayFrame19Map1() {
 
 void displayFrame20Map1() {
 
-	YPos == 3;
-	XPos == 8;
+	YPos = 3;
+	XPos = 8;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -455,8 +455,8 @@ void displayFrame20Map1() {
 
 void displayFrame21Map1() {
 
-	XPos == 3;
-	YPos == 9;
+	XPos = 3;
+	YPos = 9;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -477,8 +477,8 @@ void displayFrame21Map1() {
 
 void displayFrame22Map1() {
 
-	XPos == 3;
-	YPos == 10;
+	XPos = 3;
+	YPos = 10;
 
 	cout << "#######################################" << endl;
 	cout << "#___________________________________###" << endl;
@@ -499,8 +499,8 @@ void displayFrame22Map1() {
 
 void displayFrame23Map1() {
 	
-	XPos == 3;
-	YPos == 11;
+	XPos = 3;
+	YPos = 11;
 
 	cout << "#######################################" << endl; // We will cout these strings if when we cin the players location we get the integer 1
 	cout << "#___________________________________###" << endl;
@@ -521,8 +521,8 @@ void displayFrame23Map1() {
 
 void displayFrame24Map1() {
 
-	XPos == 3;
-	YPos == 12;
+	XPos = 3;
+	YPos = 12;
 
 	cout << "#######################################" << endl; // We will cout these strings if when we cin the players location we get the integer 1
 	cout << "#___________________________________###" << endl;
@@ -695,6 +695,45 @@ void displayFrame31Map1() {
 
 }
 
-void displayFrame
+void displayFrame32Map1() {
+
+	XPos = 4;
+	YPos = 6;
+
+	cout << "#######################################" << endl;
+	cout << "#___________________________________###" << endl;
+	cout << "#__+________________________________###" << endl;
+	cout << "#___###########################_____###" << endl;
+	cout << "#_________________________#___#_____###" << endl;
+	cout << "#___##################____#___#_____###" << endl;
+	cout << "#___#________________#____#___#_____###" << endl;
+	cout << "#___#_____#__________#_____####_____###" << endl;
+	cout << "#___#_____#_______####______________###" << endl;
+	cout << "#___#_____#__________##################" << endl;
+	cout << "#___#_____#__________#________________#" << endl;
+	cout << "#___#######_______####________________#" << endl;
+	cout << "#_____________________________________#" << endl;
+	cout << "#######################################" << endl;
+
+}
+
+void displayFrame33Map1() {
+
+	cout << "#######################################" << endl;
+	cout << "#___________________________________###" << endl;
+	cout << "#__+________________________________###" << endl;
+	cout << "#___###########################_____###" << endl;
+	cout << "#_________________________#___#_____###" << endl;
+	cout << "#___##################____#___#_____###" << endl;
+	cout << "#___#________________#____#___#_____###" << endl;
+	cout << "#___#_____#__________#_____####_____###" << endl;
+	cout << "#___#_____#_______####______________###" << endl;
+	cout << "#___#_____#__________##################" << endl;
+	cout << "#___#_____#__________#________________#" << endl;
+	cout << "#___#######_______####________________#" << endl;
+	cout << "#_____________________________________#" << endl;
+	cout << "#######################################" << endl;
+
+}
 
 
