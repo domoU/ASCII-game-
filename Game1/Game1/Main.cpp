@@ -1,6 +1,3 @@
-// My code is a little hard to follow so I'm gonna give you a breakdown of whats happening here. We start of by creating the maps that we will be using in this game with ascii art. Then we decide
-// the spawn poinmt
-
 
 #include <iostream>
 #include <string>
@@ -15,13 +12,6 @@
 using namespace std;
 
 int main() {
-
-	int startupScreenArray; // Dimensions of startup screen are 20 by 20
-	//                         | ------------------ |
-	//                                   ^
-	//                                   |
-	//                                   |
-	//                         | This is 20 spaces long |
 
 
 
@@ -49,8 +39,7 @@ int main() {
 	string gameStartLCF1 = "#                                     #";
 	string gameStartLDF1 = "#                                     #";
 	string gameStartLEF1 = "#######################################";
-
-	// map one of the game and technically its frame two since we will display gameStart before this
+	
 	int gameScreen1 = 1;
 	string gameScreen1L1F2 = "#######################################";
 	string gameScreen1L2F2 = "#___________________________________###";
